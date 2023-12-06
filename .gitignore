@@ -1,0 +1,5 @@
+# python cache file
+__pycache__
+
+# MacOS
+.DS_Store
