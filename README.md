@@ -13,20 +13,20 @@
 | [Github](https://github.com/jin-jae) | [Github](https://github.com/maj34) | [Github](https://github.com/Chokeunhee) | [Github](https://github.com/eunjeechoi) |
 
 ## 📅 스터디 일정
-- `매주 일요일 11시`에 스터디를 진행합니다.
-- FaceTime을 이용하여 `온라인`으로 진행합니다.
+- `매주 일요일 23시`에 스터디를 진행합니다.
+- Zoom을 이용하여 `온라인`으로 진행합니다.
 
 | Date | Study | Tags | Presenter |
 |------------|:-----:|------|------|
 | December 24, 2023 11:00 AM | #1 | Hash | 김진재 |
-| December 31, 2023 11:00 AM | #2 | Stack/Queue | 최은지 |
-| January 14, 2024 11:00 AM | #3 | Heap, Sort | 마민정 |
-| January 21, 2024 11:00 AM | #4 | Brute Force | 김진재 |
-| January 28, 2024 11:00 AM | #5 | Greedy | 최은지 |
-| February 4, 2024 11:00 AM | #6 | Dynamic Programming | 조근희 |
-| February 11, 2024 11:00 AM | #7 | Breadth First Search, Depth First Search | 마민정 |
-| February 18, 2024 11:00 AM | #8 | Binary Search, Graph | 조근희 |
-
+| January 13, 2024 11:00 AM | #2 | Stack/Queue | 최은지 |
+| February 3, 2024 11:00 AM | #3 | Heap, Sort | 마민정 |
+| February 25, 2024 11:00 PM | #4 | Brute Force | 김진재 |
+| March 3, 2024 11:00 PM | #5 | Greedy | 조근희 |
+| March 10, 2024 11:00 PM | #6 | Dynamic Programming | 마민정 |
+| March 17, 2024 11:00 PM | #7 | Breadth First Search, Depth First Search | 최은지 |
+| March 24, 2024 11:00 PM | #8 | Binary Search | 조근희 |
+| March 31, 2024 11:00 PM | #9 | Graph | 김진재 |
 
 ## ❓ 스터디 진행 방식
 
