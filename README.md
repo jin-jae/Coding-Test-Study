@@ -7,10 +7,10 @@
 
 ## 🧑🏻‍💻 스터디원
 
-| ![jin-jae](https://avatars.githubusercontent.com/u/97018331) | ![maj34](https://avatars.githubusercontent.com/u/75362328) | ![Chokeunhee](https://avatars.githubusercontent.com/u/43236895) | ![eunjeechoi](https://avatars.githubusercontent.com/u/97671436) |
-| :---: | :---: | :---: | :---: |
-| 김진재 | 마민정 | 조근희 | 최은지 |
-| [Github](https://github.com/jin-jae) | [Github](https://github.com/maj34) | [Github](https://github.com/Chokeunhee) | [Github](https://github.com/eunjeechoi) |
+| ![jin-jae](https://avatars.githubusercontent.com/u/97018331) | ![maj34](https://avatars.githubusercontent.com/u/75362328) | ![eunjeechoi](https://avatars.githubusercontent.com/u/97671436) |
+| :---: | :---: | :---: |
+| 김진재 | 마민정 | 최은지 |
+| [Github](https://github.com/jin-jae) | [Github](https://github.com/maj34) | [Github](https://github.com/eunjeechoi) |
 
 ## 📅 스터디 일정
 - `매주 일요일 23시`에 스터디를 진행합니다.
@@ -18,15 +18,14 @@
 
 | Date | Study | Tags | Presenter |
 |------------|:-----:|------|------|
-| December 24, 2023 11:00 AM | #1 | Hash | 김진재 |
+| December 24, 2023 8:00 PM | #1 | Hash | 김진재 |
 | January 13, 2024 11:00 AM | #2 | Stack/Queue | 최은지 |
-| February 3, 2024 11:00 AM | #3 | Heap, Sort | 마민정 |
+| February 3, 2024 11:00 AM | #3 | Sort | 마민정 |
 | February 25, 2024 11:00 PM | #4 | Brute Force | 김진재 |
 | March 3, 2024 11:00 PM | #5 | Greedy | 조근희 |
-| March 10, 2024 11:00 PM | #6 | Dynamic Programming | 마민정 |
-| March 17, 2024 11:00 PM | #7 | Breadth First Search, Depth First Search | 최은지 |
-| March 24, 2024 11:00 PM | #8 | Binary Search | 조근희 |
-| March 31, 2024 11:00 PM | #9 | Graph | 김진재 |
+| March 10, 2024 11:00 PM | #6 | Array | 김진재 |
+| March 17, 2024 11:00 PM | #7 | Stack/Queue |  |
+| ... | ... | ... | ... |
 
 ## ❓ 스터디 진행 방식
 
